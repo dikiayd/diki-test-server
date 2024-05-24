@@ -1,6 +1,10 @@
 [
-    {
-        "imei": "358352082523682,
-        "message": "Ini adalah pesan untuk IMEI 123456789012345."
-    }
+  {
+    "imei": "358352082523682",
+    "message": "Ini adalah pesan untuk IMEI 123456789012345."
+  },
+  {
+    "imei": "987654321098765",
+    "message": "Ini adalah pesan untuk IMEI 987654321098765."
+  }
 ]
